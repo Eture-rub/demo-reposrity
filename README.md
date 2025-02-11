@@ -1,2 +1,2 @@
 # dome 
-Some discription
+Some discription.
